@@ -5,7 +5,7 @@ showing how to use Git and Github together.
 
 This is another line in top.
 
-Yes, another line.
+Yes, this is yet another line.
 
 ## Introduction
 
