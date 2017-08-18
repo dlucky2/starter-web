@@ -5,6 +5,8 @@ showing how to use Git and Github together.
 
 This is another line in top.
 
+This is line 3 in top.
+
 ## Introduction
 
 This is an example to show different parts
