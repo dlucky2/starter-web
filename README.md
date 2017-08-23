@@ -7,6 +7,8 @@ This is another line in top.
 
 This is line 3 in top.
 
+This is line 4.
+
 ## Introduction
 
 This is an example to show different parts
